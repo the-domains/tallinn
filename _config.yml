@@ -1,4 +1,3 @@
-layout_spectrum: 0.7307403318118304
 typography_spectrum: 0.22848361474461854
 color:
   brandStrength: 0.5124205220490694
@@ -6,9 +5,11 @@ color:
   saturation: 0.48017793730832636
   rhythmicContrast: 0.5506737474352121
   brandColors:
-    - '#16193B'
-    - '#35478C'
-    - '#4E7AC7'
-    - '#7FB2F0'
-    - '#ADD5F7'
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+layout_spectrum: 0.7307403318118304
 name: Tallinn
+description: '2016'
