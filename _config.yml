@@ -1,8 +1,19 @@
-typography_spectrum: 0.22848361474461854
+title: Поездка в Таллинн
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.4801779373083264
   brandStrength: 0.5124205220490694
-  lightness: 0.7321334667503834
-  saturation: 0.48017793730832636
   rhythmicContrast: 0.5506737474352121
   brandColors:
     - '#17BEBB'
@@ -10,7 +21,8 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-layout_spectrum: 0.7307403318118304
-name: Tallinn
-title: Поездка в Таллинн
+  lightness: 0.7321334667503834
+typography_spectrum: 0.2284836147446185
 description: '2016'
+layout_spectrum: 1
+name: Tallinn
